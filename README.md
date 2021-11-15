@@ -4,7 +4,7 @@
 
 # Cameron McAvoy
 
-*Software Engineer at [Indeed][indeed]*
+*Staff Software Engineer @ [Indeed][indeed]*
 
 ### Contact
 [![gmail][gmail-badge]][gmail]
